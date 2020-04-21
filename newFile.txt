@@ -9,6 +9,3 @@ Keep reading for an explanation of how the Random Data method works and a few ex
 ........................................................................
 Keep reading for an explanation of how the Random Data method works and a few examples of programs that support this data sanitization method.
 
-Erasing a hard drive using the Random Data sanitization method will prevent all software based file recovery methods from finding information on the drive and may also prevent most hardware-based recovery methods from extracting information.
-
-......................................................................................................
